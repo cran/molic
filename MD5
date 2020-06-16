@@ -1,4 +1,4 @@
-e3d92e628b0a7558fea8665c02fb2a99 *DESCRIPTION
+33773af16f07804d7ff11aed8d44ab9c *DESCRIPTION
 22db64f11ea6de8ec81b94b85b8eaea0 *NAMESPACE
 ce48cd563bba56e15f138085f72725e3 *NEWS.md
 850cdcd0ce978ad063ec2a517fdb161e *R/RcppExports.R
@@ -15,7 +15,7 @@ c90e661f92e58c7851b85ed7f176c906 *R/molic.R
 f31b15ac7312ed0a13c5d208d57de2cf *data/tgp_haps.rda
 daef53ff3706635e8b085ed9eb254cbe *inst/doc/dermatitis.R
 22989435bcebc03920831c1636ae3e85 *inst/doc/dermatitis.Rmd
-f3a2f2ddcd2de6f0a772412cb531d07a *inst/doc/dermatitis.html
+c4268166fdcb9ada2cf68074a62dfa4f *inst/doc/dermatitis.html
 4dc7dd510002ddfe646861bb7f99f1b3 *inst/doc/genetic_example.R
 05963ba0b0228c77a7958e68d81f86ec *inst/doc/genetic_example.Rmd
 887cfde7c2901e3ff2f8fb2a2f1d6241 *inst/doc/genetic_example.html
@@ -37,9 +37,11 @@ d81a552370dbf65f8f11ceb6e55581ee *man/derma.Rd
 c9b62dbb0d1d112167497144d1364cdb *man/figures/README-gengraph-1.png
 8c65ce82862692a9d9e702a33bf686f6 *man/figures/README-multiple_outlier_test-1.png
 5411ced838e839b011dfe9cd7f333be0 *man/figures/README-unnamed-chunk-11-1.png
+5411ced838e839b011dfe9cd7f333be0 *man/figures/README-unnamed-chunk-12-1.png
 74e797decf7a6b63b8337fbd28a9e0f3 *man/figures/README-unnamed-chunk-3-1.png
 0c17cbbc718450fb456a69dec7716c72 *man/figures/README-unnamed-chunk-5-1.png
 e5f990c9e9a90f34ab5b65bc195038ac *man/figures/README-unnamed-chunk-7-1.png
+e5f990c9e9a90f34ab5b65bc195038ac *man/figures/README-unnamed-chunk-8-1.png
 3bfd1a8414f6d578f2244fdfd0348284 *man/figures/README-unnamed-chunk-9-1.png
 6b22b99ab9b89b442461f412bdc606f6 *man/figures/README-var-select1-1.png
 b68eacd166bb646479acb737b515103d *man/fit_mixed_outlier.Rd
@@ -58,7 +60,7 @@ ab8bbf583a9782e4bc2dc2e8c02f4f99 *man/to_single_chars.Rd
 059ad36f69ed1cc20ec0b03a07f5121b *man/variance.Rd
 7685b3b6624815362abe32a6252294ae *src/RcppExports.cpp
 a416ad3c7cefd76679d85baafdc1590a *src/molic_types.h
-0742f1f93700a87a1ce7107d036333ea *src/outlier_utils.cpp
+f92234fee3678348b44d311329bdab5a *src/outlier_utils.cpp
 02ce59a6dd413eae204957dff2161dcb *src/outlier_utils.h
 13fe810671c28a291433a3efa79e1915 *src/set_ops.cpp
 aab690a04404f7ec91bd372d3ae4afe8 *src/set_ops.h
