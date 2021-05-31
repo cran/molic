@@ -32,8 +32,6 @@ print(eur, n_extra = 0)
 ## ----fig.align='center', fig.width = 6, fig.height = 6,fig.show='hold'--------
 ga <- fit_components(eur_a, comp = haps, trace = FALSE)
 gb <- fit_components(eur_b, comp = haps, trace = FALSE)
-print(ga)
-plot(ga, vertex.size = 3, vertex.label = NA)
 
 ## -----------------------------------------------------------------------------
 # Only 500 simulations is used here to exeplify
