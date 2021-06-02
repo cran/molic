@@ -1,8 +1,8 @@
-e6a2acef0cc4be6bb41c36b7ebf33807 *DESCRIPTION
+e5a1da6835b27e772eaac0a9d3e51210 *DESCRIPTION
 670d19a4fd8fbe36f290b3bab9bb591e *NAMESPACE
-2a58badb9e37d23a9c31022a72a4c982 *NEWS.md
+4c6f691f6ac8afcc2aa5237c4fd0f1e4 *NEWS.md
 850cdcd0ce978ad063ec2a517fdb161e *R/RcppExports.R
-16283cfaf3db60e314ea713831dccc9b *R/api_fit_outlier.R
+1c4e212d992bc56151dfc11eda2ddcbf *R/api_fit_outlier.R
 44f583439a7d4c25115c9ade7eddb850 *R/class_outlier.R
 03c9ac222d1c7cabbc71a14e03e9db76 *R/data.R
 4342d711a76a7fe61f0823835d8f31dc *R/global_variables.R
@@ -15,7 +15,7 @@ e75e85d3678f240ebb409d08eb4ed467 *build/vignette.rds
 f31b15ac7312ed0a13c5d208d57de2cf *data/tgp_haps.rda
 daef53ff3706635e8b085ed9eb254cbe *inst/doc/dermatitis.R
 22989435bcebc03920831c1636ae3e85 *inst/doc/dermatitis.Rmd
-60787dffc9d118052896b476716c0b8c *inst/doc/dermatitis.html
+6bba73eaa637ca35f42ee62878793465 *inst/doc/dermatitis.html
 c63ee9ed1dc8d1c1fb8b2ce3be4f1343 *inst/doc/genetic_example.R
 51db7861c2ddccc54095bcc128f66d32 *inst/doc/genetic_example.Rmd
 01e4fec26504c9537aeb2689b2199531 *inst/doc/genetic_example.html

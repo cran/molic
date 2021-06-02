@@ -371,7 +371,11 @@ fit_multiple_models <- function(A,
 
     gi <- if (!is.null(comp)) {
       # TODO: Fix!
-      ess::fit_components(Ai, comp = comp, type = type, q = q, trace = FALSE)$adj_list
+      # ess::fit_components(Ai, comp = comp, type = type, q = q, trace = FALSE)$adj_list
+      adj <- lapply(unname(comp), function(x) {
+        ess::fit_graph(Ai[, x, drop = FALSE], type = type,  q = q, trace = trace)$adj_list
+      })
+      unlist(adj, recursive = FALSE)
     } else {
       ess::fit_graph(Ai, type = type, q = q, trace = FALSE)$adj_list
     }
@@ -383,7 +387,6 @@ fit_multiple_models <- function(A,
       nsim        = nsim,
       ncores      = ncores,
       validate    = validate)
-    
   })
   
   names(models) <- res_lvls
